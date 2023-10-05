@@ -1,0 +1,6 @@
+@import url(https://candyfonts.com/wp-data/2019/03/23/49069/8bitoperator_jve.ttf);
+:root {
+    --font-primary: Regular, 8bitoperator-jve-regular;
+    --font-display: Regular, 8bitoperator-jve-regular;
+    --font-headline: Regular, 8bitoperator-jve-regular;
+}
