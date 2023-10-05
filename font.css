@@ -1,6 +1,6 @@
-@import url(https://www.dafontfree.net/data/42/0/91239/8bitoperator_jve.ttf") format("woff"),url("https://www.dafontfree.net/data/42/0/91239/8bitoperator_jve.ttf);
-:root {
-    --font-primary: 8bitoperator-jve-regular, sans-serif;
-    --font-display: 8bitoperator-jve-regular, sans-serif;
-    --font-headline: 8bitoperator-jve-regular, sans-serif;
+@font-face{
+    font-family:"8bitoperator-jve-regular";
+    src:url("https://candyfonts.com/wp-data/2019/03/23/49069/8bitoperator_jve.ttf") format("woff"),
+    url("https://candyfonts.com/wp-data/2019/03/23/49069/8bitoperator_jve.ttf") format("opentype"),
+    url("https://candyfonts.com/wp-data/2019/03/23/49069/8bitoperator_jve.ttf") format("truetype");
 }
